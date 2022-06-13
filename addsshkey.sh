@@ -1,1 +1,2 @@
-touch /root/.ssh/authorized_keys && echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPwHSssG49+ks2WhDIyNbGblfSLiE2+9rmMry3lFMw9Y your_email@example.com" >> /root/.ssh/authorized_keys
+touch /root/.ssh/authorized_keys && echo "sk-ecdsa-sha2-nistp256@openssh.com AAAAInNrLWVjZHNhLXNoYTItbmlzdHAyNTZAb3BlbnNzaC5jb20AAAAIbmlzdHAyNTYAAABBBCltCZHirUZH0wgZSKhmHVGjSMA5fH4Be5vh3vwyB/gUqgSxQNZHe/RFik4ZfCNWOTP345uaPjEgdeWnfPA6ocoAAAAEc3NoOg== ryan@gate.do
+" >> /root/.ssh/authorized_keys
